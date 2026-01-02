@@ -150,7 +150,7 @@ const Dashboard = ({ navigate }) => {
   return (
     <div className="space-y-6 pb-24">
       <SectionTitle
-        title="Security Command Center"
+        title="Dashboard"
         subtitle="Live threat vectors and neural network analysis."
       />
 
